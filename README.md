@@ -6,3 +6,5 @@ Active Learning: Usinng colspan and rowspan
 
 3. Finally, use rowspan to make "Horse" and "Chicken" span across two rows.
    Save and open your code in a browser to see the improvement.
+
+Live web: https://gitthuma.github.io/spanning_multiple_rows_and_columns/
